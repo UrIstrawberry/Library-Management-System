@@ -9,3 +9,15 @@ Features
 6. View Members
 7. View Loans
 8. Exit
+
+Structure 
+library-management-system/
+|
+├── main.py
+├── library_service.py
+|
+├── book.py
+├── member.py
+├── loan.py
+|
+└── exceptions.py
